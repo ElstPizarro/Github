@@ -1,9 +1,9 @@
-p {
-    color: blue;
-}
-
 body {
     
   box-sizing: border-box;
 
+}
+
+p {
+  color: purple;
 }
